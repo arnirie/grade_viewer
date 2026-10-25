@@ -1,0 +1,5 @@
+# Apps Script backend runs on Google's servers and contains sheet IDs; keep it out of the public repo
+apps-script/
+
+# macOS
+.DS_Store
